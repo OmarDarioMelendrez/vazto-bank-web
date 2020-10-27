@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vazto-bank-web/static/css/main.4d467896.chunk.css",
+    "main.js": "/vazto-bank-web/static/js/main.2f46c798.chunk.js",
+    "main.js.map": "/vazto-bank-web/static/js/main.2f46c798.chunk.js.map",
+    "runtime-main.js": "/vazto-bank-web/static/js/runtime-main.a5004628.js",
+    "runtime-main.js.map": "/vazto-bank-web/static/js/runtime-main.a5004628.js.map",
+    "static/js/2.84c78364.chunk.js": "/vazto-bank-web/static/js/2.84c78364.chunk.js",
+    "static/js/2.84c78364.chunk.js.map": "/vazto-bank-web/static/js/2.84c78364.chunk.js.map",
+    "index.html": "/vazto-bank-web/index.html",
+    "static/css/main.4d467896.chunk.css.map": "/vazto-bank-web/static/css/main.4d467896.chunk.css.map",
+    "static/js/2.84c78364.chunk.js.LICENSE.txt": "/vazto-bank-web/static/js/2.84c78364.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/vazto-bank-web/static/media/svg-1.4f125e7d.svg",
+    "static/media/svg-2.svg": "/vazto-bank-web/static/media/svg-2.7dfd86e0.svg",
+    "static/media/svg-3.svg": "/vazto-bank-web/static/media/svg-3.2593f734.svg",
+    "static/media/svg-4.svg": "/vazto-bank-web/static/media/svg-4.4fcce52e.svg",
+    "static/media/video.5e99e701.mp4": "/vazto-bank-web/static/media/video.5e99e701.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5004628.js",
+    "static/js/2.84c78364.chunk.js",
+    "static/css/main.4d467896.chunk.css",
+    "static/js/main.2f46c798.chunk.js"
+  ]
+}
